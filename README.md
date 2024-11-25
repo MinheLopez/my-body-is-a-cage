@@ -1,4 +1,4 @@
 ## Sound
 [Samples](samples.json)
 
-+ !reslist ""
++ !reslist "https://minhelopez.github.io/my-body-is-a-cage/samples.json"
