@@ -1,0 +1,13 @@
+[ 
+
+  {"url":"ambiente.wav","type":"audio","bank":"my-body-is-cage","n":0},
+  {"url":"enojada.wav","type":"audio","bank":"my-body-is-cage","n":1},
+  {"url":"farma.wav","type":"audio","bank":"my-body-is-cage","n":2},
+  {"url":"lluvia.wav","type":"audio","bank":"my-body-is-cage","n":3},
+  {"url":"musica.wav","type":"audio","bank":"my-body-is-cage","n":4},
+  {"url":"niños.wav","type":"audio","bank":"my-body-is-cage","n":5},
+  {"url":"pajaro.wav","type":"audio","bank":"my-body-is-cage","n":6},
+  {"url":"respira.wav","type":"audio","bank":"my-body-is-cage","n":7}
+
+
+]
